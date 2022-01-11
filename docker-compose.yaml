@@ -17,4 +17,4 @@ Services:
     - ME_CONFIG_MONGODB_SERVER: mongo
 volumes:
   mongo-data:
-    - driver: local
+    driver: local
